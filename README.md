@@ -20,7 +20,8 @@ A simple Chrome extension that sets a random background on **Google.com** with a
  ┃ ┣ 🖼 icon16.png
  ┃ ┣ 🖼 icon48.png
  ┃ ┣ 🖼 icon128.png
- ┣ 📜 README.md```
+ ┣ 📜 README.md
+ ```
 
  # 🔧 How to Install  
 1️⃣ Open **Chrome** and go to `chrome://extensions/`  
