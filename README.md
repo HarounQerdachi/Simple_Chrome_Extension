@@ -10,7 +10,7 @@ A simple Chrome extension that sets a random background on **Google.com** with a
 ## 📂 Folder Structure  
 
 ```📦 My_Chrome_Extension
- ┣ 📂 Code
+ ┣ 📂 app
  ┃ ┣ 📜 manifest.json
  ┃ ┣ 📜 content.js
  ┃ ┣ 📜 popup.html
