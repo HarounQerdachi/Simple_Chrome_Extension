@@ -2,7 +2,7 @@
 
 A simple Chrome extension that sets a random background on **Google.com** with an **ON/OFF toggle**.  
 
-## 🚀 Features  
+## Features  
 ✅ **Changes background** to a random image from the internet  
 ✅ **Toggle ON/OFF** with a button  
 ✅ **Remembers user preference**  
@@ -23,14 +23,14 @@ A simple Chrome extension that sets a random background on **Google.com** with a
  ┣ 📜 README.md
  ```
 
- # 🔧 How to Install  
-1️⃣ Open **Chrome** and go to `chrome://extensions/`  
-2️⃣ Enable **Developer Mode** (top right)  
-3️⃣ Click **Load Unpacked**  
-4️⃣ Select this extension’s folder  
-5️⃣ Open **Google.com** and toggle the extension!  
+ # How to Install  
+1. Open **Chrome** and go to `chrome://extensions/`  
+2. Enable **Developer Mode** (top right)  
+3. Click **Load Unpacked**  
+4. Select this extension’s folder  
+5. Open **Google.com** and toggle the extension!  
 
-## 🛠 How It Works  
+## How It Works  
 - **Background changes** on every refresh (if enabled)  
 - **Toggle button** saves your preference  
 - **Icons included** for easy identification  
