@@ -23,7 +23,7 @@ A simple Chrome extension that sets a random background on **Google.com** with a
  ┣ 📜 README.md
  ```
 
- # How to Install  
+## How to Install  
 1. Open **Chrome** and go to `chrome://extensions/`  
 2. Enable **Developer Mode** (top right)  
 3. Click **Load Unpacked**  
