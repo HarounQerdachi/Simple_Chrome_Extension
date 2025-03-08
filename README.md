@@ -16,10 +16,10 @@ A simple Chrome extension that sets a random background on **Google.com** with a
  ┃ ┣ 📜 popup.html
  ┃ ┣ 📜 popup.js
  ┃ ┣ 📜 styles.css
- ┣ 📂 pictures
- ┃ ┣ 🖼 icon16.png
- ┃ ┣ 🖼 icon48.png
- ┃ ┣ 🖼 icon128.png
+ ┃ ┣ 📂 pictures
+ ┃   ┣ 🖼 icon16.png
+ ┃   ┣ 🖼 icon48.png
+ ┃   ┣ 🖼 icon128.png
  ┣ 📜 README.md
  ```
 
