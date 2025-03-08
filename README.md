@@ -7,7 +7,7 @@ A simple Chrome extension that sets a random background on **Google.com** with a
 ✅ **Toggle ON/OFF** with a button  
 ✅ **Remembers user preference**  
 
-## 📂 Folder Structure  
+## Folder Structure  
 
 ```📦 My_Chrome_Extension
  ┣ 📂 app
